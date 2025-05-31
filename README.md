@@ -18,7 +18,6 @@ A sleek, minimal, and responsive stopwatch built using **React**, **Next.js**, a
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - TypeScript
-- ShadCN UI (optional, if used)
 
 ## 📦 Installation
 
